@@ -22,12 +22,6 @@ Diseñada con una interfaz amigable, moderna y funcional, permite registrar ingr
 
 ---
 
-## 🖥 Capturas de pantalla
-
-*(Puedes agregar aquí tus screenshots: interfaz principal, ventana ingreso, PDF generado, etc.)*
-
----
-
 ## 🚀 Instalación
 
 ### 1. Clona el repositorio
@@ -98,7 +92,7 @@ AhorroPRO/
 
 ## 📌 Créditos
 
-Desarrollado por [Tu Nombre o Alias].\
+Desarrollado por Charletsts.\
 Inspirado en el método financiero 50/30/20 de Elizabeth Warren.
 
 ---
