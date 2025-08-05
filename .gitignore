@@ -1,0 +1,47 @@
+# ─── Python bytecode ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─── Virtual environments ────────────────────────────────────────
+venv/
+env/
+.venv/
+
+# ─── PyInstaller output ──────────────────────────────────────────
+build/
+dist/
+*.spec
+
+# ─── Executables ─────────────────────────────────────────────────
+*.exe
+*.dll
+*.so
+*.dmg
+*.pkg
+*.app
+
+# ─── Log & system files ──────────────────────────────────────────
+*.log
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# ─── IDEs / Editors ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ─── Reportes generados ─────────────────────────────────────────
+reportes/
+
+# ─── Archivos temporales matplotlib ─────────────────────────────
+*.png
+*.pdf
+ahorro_temp.*
+gastos_temp.*
+
+# ─── Backup archivos Excel (si los generas) ─────────────────────
+*.xlsx~
